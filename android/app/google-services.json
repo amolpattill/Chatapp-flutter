@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032522220748",
+    "project_id": "chatapp-d8632",
+    "storage_bucket": "chatapp-d8632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032522220748:android:fdee29b0e794b2da932e69",
+        "android_client_info": {
+          "package_name": "online.amolpatil.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032522220748-0ggtq6j6rncgtrnq82pa1qjkuv833n0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnzUlyPyNjqZ0EXsznje1YRfwGbUFxXwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032522220748-0ggtq6j6rncgtrnq82pa1qjkuv833n0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
